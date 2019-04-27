@@ -9,7 +9,6 @@ Freaks-TextOffice is a programm, programmed in C#, where you can write, save, op
 
 # You can write text and save it but it is not recommended for business or school work!
 
-Freaks-TextOffice is a programm, programmed in C#, where you can write, save, open or even print your personal text-documents.
 Freaks-TextOffice includes: 
 # -Freaks Internet 
 You can surf internet with it! (not perfect yet!)
