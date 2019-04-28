@@ -23,11 +23,20 @@ Do maths quicker than anything! (not perfect! and not the fastest yet;) )
 
 # TODO
 - Make a Spelling-Check!!!!!!
-- Translate everything in English
+- Make the Language changeable
 - Make the Browser work
 - Make a "Welcome-Screen" for first opening!
 - Make the calculator better
 
-# Done
+# ChangeLog
+
+# Freaks-Internet 1.0.0.0
+Note: It is in German!
+- Internet does work now!
+- Added an URL-Bar
+- Added a Back-Button!
+- Added a hidden Feature! Just watch a Youtube-Video!
+
+# Freaks-TextOffice 1.0.0.0
 - Added "Dark-Mode" for Night-Work
 - Added a status bar at the bottom in the programm
