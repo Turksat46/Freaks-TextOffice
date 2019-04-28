@@ -1,5 +1,5 @@
 # Freaks-TextOffice
-Version : 1.0.0.0
+CurrentVersion : 1.0.1.0
 
 Freaks-TextOffice is a programm, programmed in C#, where you can write, save, open or even print your personal text-documents.
 
@@ -30,12 +30,21 @@ Do maths quicker than anything! (not perfect! and not the fastest yet;) )
 
 # ChangeLog
 
+# Freaks-TextOffice 1.0.1.0
+- Bug fixes
+
+# New Features:
+- It is now available in English!(Not in the Settings changeable!)
+- Freaks-Internet does now work!
+
 # Freaks-Internet 1.0.0.0
 Note: It is in German!
 - Internet does work now!
 - Added an URL-Bar
 - Added a Back-Button!
 - Added a hidden Feature! Just watch a Youtube-Video!
+
+________________________________________________________________________________________________________________________________________
 
 # Freaks-TextOffice 1.0.0.0
 - Added "Dark-Mode" for Night-Work
