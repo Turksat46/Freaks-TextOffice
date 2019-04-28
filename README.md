@@ -20,6 +20,7 @@ Do maths quicker than anything! (not perfect! and not the fastest yet;) )
 
 
 # TODO
+- Make a Spelling-Check!!!!!!
 - Translate everything in English
 - Make the Browser work
 - Make a "Welcome-Screen" for first opening!
