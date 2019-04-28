@@ -16,3 +16,9 @@ You can surf internet with it! (not perfect yet!)
 
 # -Freaks Calculator 
 Do maths quicker than anything! (not perfect! and not the fastest yet;) )
+
+
+# TODO
+- Translate everything in English
+- Make the Browser work
+- Make a "Welcome-Screen" for first opening!
