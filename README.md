@@ -13,9 +13,11 @@ It is not perfect yet, but I will work hard on it to make this programm better!
 Freaks-TextOffice includes: 
 
 -Freaks Internet 
+
 You can surf internet with it! (not perfect yet!)
 
 -Freaks Calculator 
+
 Do maths quicker than anything! (not perfect! and not the fastest yet;) )
 
 
