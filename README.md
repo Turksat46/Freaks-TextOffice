@@ -8,7 +8,9 @@ This program is only in German!
 This is a demo of a project of mine!
 It is not perfect yet, but I will work hard on it to make this programm better!
 
-# You can write text and save it but it is not recommended for business or school work!
+# !You can write text and save it but it is not recommended for business or school work!
+
+________________________________________________________________________________________________________________________________________
 
 Freaks-TextOffice includes: 
 
@@ -20,6 +22,7 @@ You can surf internet with it! (not perfect yet!)
 
 Do maths quicker than anything! (not perfect! and not the fastest yet;) )
 
+________________________________________________________________________________________________________________________________________
 
 # TODO
 - Make a Spelling-Check!!!!!!
@@ -27,6 +30,8 @@ Do maths quicker than anything! (not perfect! and not the fastest yet;) )
 - Make the Browser work
 - Make a "Welcome-Screen" for first opening!
 - Make the calculator better
+
+________________________________________________________________________________________________________________________________________
 
 # ChangeLog
 
